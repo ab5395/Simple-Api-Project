@@ -1,0 +1,60 @@
+{
+  "news": [
+    {
+      "NewsId": 1,
+      "Title": "news1",
+      "Description": "Grab top news stories, news headlines from India & around the world. ... Man detained by ATS for IS ties told to reappear for questioning today1 sec ago.Grab top news stories, news headlines from India & around the world. ... Man detained by ATS for IS ties told to reappear for questioning today1 sec ago.",
+      "ImageUrl": "/Images/News/88274743.jpg",
+      "Url": "https://www.google.co.in",
+      "Date": "14-03-2014"
+    },
+    {
+      "NewsId": 2,
+      "Title": "news2",
+      "Description": "Grab top news stories, news headlines from India & around the world. ... Man detained by ATS for IS ties told to reappear for questioning today1 sec ago.",
+      "ImageUrl": "/Images/News/Door3316.jpg",
+      "Url": "https://www.google.co.in",
+      "Date": "15-03-2014"
+    },
+    {
+      "NewsId": 3,
+      "Title": "news3",
+      "Description": "Grab top news stories, news headlines from India & around the world. ... Man detained by ATS for IS ties told to reappear for questioning today1 sec ago.",
+      "ImageUrl": "/Images/News/DSCN0525.jpg",
+      "Url": "https://www.google.co.in",
+      "Date": "24-05-2014"
+    },
+    {
+      "NewsId": 4,
+      "Title": "News4 With Update",
+      "Description": "Grab top news stories, news headlines from India & around the world. ... Man detained by ATS for IS ties told to reappear for questioning today1 sec ago.Grab top news stories, news headlines from India & around the world. ... Man detained by ATS for IS ties told to reappear for questioning today1 sec ago.",
+      "ImageUrl": "/Images/News/iStock_000007439065Large.jpg",
+      "Url": "https://www.google.co.in",
+      "Date": "24-04-2014"
+    },
+    {
+      "NewsId": 5,
+      "Title": "New News5",
+      "Description": "This is new description",
+      "ImageUrl": "/Images/News/iStock_000007439065Large.jpg",
+      "Url": "https://www.google.co.in",
+      "Date": "04-05-2014"
+    },
+    {
+      "NewsId": 6,
+      "Title": "New News6",
+      "Description": "This is new updated description",
+      "ImageUrl": "/Images/News/iStock_000010352774Large.jpg",
+      "Url": "https://www.google.co.in",
+      "Date": "02-05-2014"
+    },
+    {
+      "NewsId": 7,
+      "Title": "New News7",
+      "Description": "This is new New description",
+      "ImageUrl": "/Images/News/iStock_000010352774Large.jpg",
+      "Url": "https://www.google.co.in",
+      "Date": "27-05-2017"
+    }
+  ]
+}
